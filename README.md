@@ -40,4 +40,4 @@
 | bsa_test_tasks                         | ООО_ЭТКОНС          | [ЭТКОНС](https://www.etcons-it.ru/) | Системный аналитик                        | 2025                         |
 | backend_test_task                      | NPP_RUBIN                    | Рубин                             | Стажер разработчик backend-а на C++/Qt | 2024                         |
 
-<a href="https://github.com/Akhzariell/Projects" style="padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">Вернуться на главную страницу</a>
+<a href="https://github.com/Akhzariell/Projects" style="padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">Глобальный путеводитель</a>
